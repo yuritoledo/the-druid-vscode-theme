@@ -1,0 +1,49 @@
+{
+    "scope": [
+      "support.class",
+      "punctuation.definition.string.begin.tsx",
+      "punctuation.definition.string.end.tsx"
+    ],
+    "settings": {
+      "foreground": "#c26100"
+    }
+  },
+  {
+    "scope": [
+      "support.type.property-name.json",
+      "support.type.property-name.json punctuation",
+      "meta.tag.tsx"
+    ],
+    "settings": { "foreground": "#c26100" }
+  },
+  {
+    "scope": "entity.name.function.tsx",
+    "settings": { "foreground": "#349000" }
+  },
+  {
+    "scope": [
+      "entity.name.type.class",
+      "variable.other.constant.object.tsx",
+      "storage",
+      "meta.arrow.tsx",
+      "meta.jsx.children.tsx",
+      "storage.type.function.arrow.tsx",
+      "keyword.operator.ternary",
+      "punctuation.definition.tag.end.tsx",
+      "punctuation.definition.tag.begin.tsx",
+      "support.type.property-name.json.comments"
+    ],
+    "settings": { "foreground": "#fff" }
+  },
+  {
+    "scope": ["entity.other.attribute-name.tsx", "string"],
+    "settings": { "foreground": "#e39e5a", "fontStyle": "" }
+  },
+  {
+    "scope": "variable.parameter",
+    "settings": { "fontStyle": "" }
+  },
+  {
+    "scope": ["storage", "support.type.primitive.tsx"],
+    "settings": { "foreground": "#c28649" }
+  }
