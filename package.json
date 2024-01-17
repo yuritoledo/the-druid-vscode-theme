@@ -1,8 +1,13 @@
 {
   "name": "the-druid",
-  "displayName": "the druid",
-  "description": "a druid-ish theme",
-  "version": "0.0.1",
+  "publisher": "yuritoledo",
+  "displayName": "The Druid",
+  "description": "A druid-ish theme",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuritoledo/the-druid-vscode-theme"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
