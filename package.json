@@ -3,7 +3,7 @@
   "publisher": "yuritoledo",
   "displayName": "The Druid",
   "description": "A druid-ish theme",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
     "publish": "vsce package && vsce publish"
   },
